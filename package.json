@@ -9,15 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/camscott16/Clog"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Cameron Scott",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/camscott16"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/camscott16/Clog#readme",
   "dependencies": {
+    "@radix-ui/react-primitive": "^2.0.1",
+    "@radix-ui/themes": "^3.1.6",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",

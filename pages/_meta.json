@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
-  "another": "Projects",
-  "advanced": "New",
+  "projects": "Projects",
+  "pinterest": "Pinterest",
+  "learn": "New Learnings",
+  "stocks": "Stonks",
   "about": {
     "title": "About",
     "type": "page"
